@@ -1,0 +1,20 @@
+{
+  "name": "school-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test1.spec.js",
+  "scripts": {
+    "test": "mocha --port=9229 ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "json2xls": "^0.1.2",
+    "mocha": "^7.1.0",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
